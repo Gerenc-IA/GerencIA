@@ -11,22 +11,26 @@ Link do Padlet:
 [](https://github.com/CamilaDiasOliveira/requisitos-software?tab=readme-ov-file#1-introdu%C3%A7%C3%A3o)
 
 _**1.1. Nome do Grupo**_
-
-Indicar o nome e github dos integrantes do grupo
+Integrantes: Vitor Leandro Machado/ vitorlzlz   
+             Everton Freitas De Araujo/ Everton Araujo  
+             Levy Gaspar Lopes/ levyedu
+             Victor Huggo Ferreira/ Victor1930 
+             Felipe Yuji Shirae / FelipeShirae
+             
 
 _**1.2. Nome do Sistema**_
 
-Indicar o nome do software propostoenter code here
+Gerenc-IA
 
 _**1.3. Propósito do Sistema**_
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela  _`nome da empresa`_, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
+Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela  _`Gerenci-IA`_, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-O objetivo do sistema  `nome do sistema`  é ....  _<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>_
+O objetivo do sistema  `Gerenc-IA`  é ....  _<Cadastro, Login, Cadastro de produtos, relatório de vendas, relatório de estoque, Consulta de preços, venda de produtos, notificação do estoque>_
 
 _**1.2. Público Alvo**_
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes...  _<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>_
+Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes...  _<pequenos comerciantes e clientes>_
 
 _**1.3. Descrição dos usuários**_
 
