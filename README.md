@@ -11,11 +11,12 @@ Link do Padlet:
 [](https://github.com/CamilaDiasOliveira/requisitos-software?tab=readme-ov-file#1-introdu%C3%A7%C3%A3o)
 
 _**1.1. Nome do Grupo**_
-Integrantes: Vitor Leandro Machado/ vitorlzlz   
-             Everton Freitas De Araujo/ Everton Araujo  
-             Levy Gaspar Lopes/ levyedu
-             Victor Huggo Ferreira/ Victor1930 
-             Felipe Yuji Shirae / FelipeShirae
+Integrantes: 
+            Vitor Leandro Machado/ vitorlzlz   
+            Everton Freitas De Araujo/ Everton Araujo  
+            Levy Gaspar Lopes/ levyedu
+            Victor Huggo Ferreira/ Victor1930 
+            Felipe Yuji Shirae / FelipeShirae
              
 
 _**1.2. Nome do Sistema**_
