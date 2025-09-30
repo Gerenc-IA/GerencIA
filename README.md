@@ -42,8 +42,7 @@ Pequenos comerciantes: que gerenciam estoques e realizam vendas em estabelecimen
 Clientes finais: que buscam praticidade na consulta de preços e na compra de produtos.
 
 _**Personas:**_
-
-_<Imagem, arquivo (PDF), link com as Personas.>_
+![858b9571-0734-45e4-be4f-3a0c07ec1902](https://github.com/user-attachments/assets/300e85b1-abca-4f55-b7e6-e9a27ea14847)
 
 _**Análise da situação atual: antes da introdução de sua solução**_
 
