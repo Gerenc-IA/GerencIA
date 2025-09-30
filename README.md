@@ -21,21 +21,25 @@ Integrantes:
 
 _**1.2. Nome do Sistema**_
 
-Gerenc-IA
+GerencIA – um software de gestão inteligente e acessível para pequenos negócios.
 
 _**1.3. Propósito do Sistema**_
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela  _`Gerenci-IA`_, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
+O sistema proposto tem como objetivo principal fornecer uma ferramenta digital para o gerenciamento eficiente do estoque de produtos, facilitando o controle de mercadorias, vendas e relatórios, especialmente para pequenos comerciantes que desejam otimizar sua gestão comercial
 
 O objetivo do sistema  `Gerenc-IA`  é ....  _<Cadastro, Login, Cadastro de produtos, relatório de vendas, relatório de estoque, Consulta de preços, venda de produtos, notificação do estoque>_
 
 _**1.2. Público Alvo**_
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes...  _<pequenos comerciantes e clientes>_
+O GerencIA é destinado a:
+Pequenos comerciantes que necessitam de um sistema prático para administrar seus estoques, vendas e relatórios.
+Clientes em geral que desejam consultar preços e realizar compras de forma rápida e confiável.
 
 _**1.3. Descrição dos usuários**_
 
-_<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>_
+Os grupos principais de usuários do sistema são:
+Pequenos comerciantes: que gerenciam estoques e realizam vendas em estabelecimentos de pequeno porte.
+Clientes finais: que buscam praticidade na consulta de preços e na compra de produtos.
 
 _**Personas:**_
 
@@ -63,11 +67,11 @@ _<Preencher com o cenário idealizado depois da aplicação do seu sistema.>_
 
 _**2.1. Requisitos Funcionais**_
 
-_<Link, imagem, arquivo com os requisitos funcionais.>_
+(https://docs.google.com/spreadsheets/d/1qk3-G5MouKKQh3VMvTKecqzVgqDyMfVI8vWTflVRRas/edit?usp=sharing)
 
 _**2.2. Requisitos Não Funcionais**_
 
-_<Link, imagem, arquivo com os requisitos não funcionais.>_
+(https://docs.google.com/spreadsheets/d/1qk3-G5MouKKQh3VMvTKecqzVgqDyMfVI8vWTflVRRas/edit?usp=sharing)
 
 _**2.3. Perguntas**_
 
