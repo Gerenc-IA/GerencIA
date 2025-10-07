@@ -27,8 +27,6 @@ _**1.3. Propósito do Sistema**_
 
 O sistema proposto tem como objetivo principal fornecer uma ferramenta digital para o gerenciamento eficiente do estoque de produtos, facilitando o controle de mercadorias, vendas e relatórios, especialmente para pequenos comerciantes que desejam otimizar sua gestão comercial
 
-O objetivo do sistema  `Gerenc-IA`  é ....  _<Cadastro, Login, Cadastro de produtos, relatório de vendas, relatório de estoque, Consulta de preços, venda de produtos, notificação do estoque>_
-
 _**1.2. Público Alvo**_
 
 O GerencIA é destinado a:
