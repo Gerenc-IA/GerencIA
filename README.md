@@ -79,8 +79,16 @@ _**2.4. Entrevista**_
 _<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>_
 
 _**2.5. Histórias do Usuário**_
-
-_<Imagem, arquivo (PDF), link com as Histórias de Usuário.>_
+1. Como um Comerciante, eu quero cadastrar, editar e remover produtos, para que meu inventário digital esteja sempre correto e atualizado.
+2. Como um Comerciante, eu quero registrar uma venda de forma rápida, buscando produtos por nome ou código de barras com sugestões automáticas (autocomplete), para que eu não deixe o cliente esperando e o processo no caixa seja ágil.
+3. Como um Comerciante, eu quero que o sistema dê baixa no estoque automaticamente sempre que eu finalizar uma venda, para que eu tenha confiança nos números do meu inventário e evite vender produtos que acabaram.
+4. Como um Comerciante, eu quero me cadastrar com e-mail e senha e fazer login de forma segura, para que apenas eu tenha acesso aos dados de gerenciamento da minha loja.
+5. Como um Comerciante, eu quero definir uma quantidade de "nível mínimo" para cada produto do meu inventário, para que o sistema possa me alertar proativamente quando for a hora de comprar mais
+6. Como um Comerciante, eu quero ver um alerta visual (como uma cor ou ícone) na minha lista de produtos, para que eu possa identificar rapidamente quais itens estão com estoque baixo.
+7. Como um Comerciante, eu quero buscar e filtrar produtos no meu inventário por nome ou código, para que eu possa gerenciar meu catálogo e encontrar itens específicos facilmente.
+8. Como um Comerciante, eu quero gerar relatórios de vendas por período (diário, semanal, mensal), para que eu possa entender meu faturamento e quais produtos são mais vendidos.
+9. Como um Comerciante, eu quero gerar um relatório completo do meu estoque atual, para que eu possa fazer o balanço (contagem física) e planejar minhas compras de reposição.
+10. Como um Comerciante, eu quero adicionar uma foto para cada produto no cadastro, para que seja mais fácil e rápido identificar o item visualmente na tela de vendas.
 
 _**2.6. Diagramas de Caso de Uso e Especificações**_
 
