@@ -72,7 +72,27 @@ _**2.2. Requisitos Não Funcionais**_
 
 _**2.3. Perguntas**_
 
-_<Arquivo com as perguntas realizadas na entrevista .>_
+Hoje, como você faz o controle do seu estoque?
+
+Você já enfrentou problemas por não saber a quantidade exata de um produto?
+
+Como você registra suas vendas atualmente?
+
+Você gera ou gostaria de gerar relatórios de vendas?
+
+Você acha importante receber alertas quando um produto estiver acabando no estoque?
+
+Se fosse usar um sistema, você preferiria no celular, computador ou os dois?
+
+Você se sentiria confortável em cadastrar seus produtos no sistema (com nome, preço, quantidade, etc.)?
+
+Ter fotos dos produtos ajudaria na hora de encontrar ou vender algo no sistema?
+
+Você trabalha sozinho ou mais pessoas usariam esse sistema com você?
+
+Na sua opinião, o que um bom sistema de gestão deveria ter para facilitar sua vida?
+
+Você gostaria de acessar seus dados de qualquer lugar, ou só dentro da loja?_
 
 _**2.4. Entrevista**_
 
