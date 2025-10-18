@@ -96,7 +96,8 @@ Você gostaria de acessar seus dados de qualquer lugar, ou só dentro da loja?_
 
 _**2.4. Entrevista**_
 
-_<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>_
+https://drive.google.com/file/d/1Tb8JclFMb0do0pchPMK6iU6BhXXeH1fX/view?usp=sharing
+https://drive.google.com/file/d/1MGzr2m8T_CK9dZHFzsHFAed194ripwqw/view?usp=sharing
 
 _**2.5. Histórias do Usuário**_
 1. Como um Comerciante, eu quero cadastrar, editar e remover produtos, para que meu inventário digital esteja sempre correto e atualizado.
