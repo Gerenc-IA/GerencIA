@@ -113,13 +113,14 @@ _**2.5. Histórias do Usuário**_
 
 _**2.6. Diagramas de Caso de Uso e Especificações**_
 
-_<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>_
+
+<img width="450" height="1387" alt="Diagrama caso de uso" src="https://github.com/user-attachments/assets/7ef78b08-6da6-4b37-a07c-8627066d1740" />
 
 _**2.7. Diagramas de Atividades**_
 
-_<Imagem, arquivo (PDF), link com Diagrama de Atividades.>_
 
-_**2.8. Protótipos**_
+_**2.8. Protótipo<img width="1066" height="597" alt="Diagrama de atividades" src="https://github.com/user-attachments/assets/6c469002-7868-4b13-be6f-47b19bddf786" />
+s**_
 
 _<Imagem, arquivo (PDF), link com Protótipo.>_
 
