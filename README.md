@@ -119,9 +119,7 @@ _**2.7. Diagramas de Atividades**_
 
 
 _**2.8. Protótipo<img width="1066" height="597" alt="Diagrama de atividades" src="https://github.com/user-attachments/assets/6c469002-7868-4b13-be6f-47b19bddf786" />
-s**_
-
-_<Imagem, arquivo (PDF), link com Protótipo.>_
+**_
 
 ## Referências
 
