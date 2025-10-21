@@ -113,8 +113,7 @@ _**2.5. Histórias do Usuário**_
 
 _**2.6. Diagramas de Caso de Uso e Especificações**_
 
-
-<img width="450" height="1387" alt="Diagrama caso de uso" src="https://github.com/user-attachments/assets/7ef78b08-6da6-4b37-a07c-8627066d1740" />
+<img width="447" height="1176" alt="Diagrama caso de uso1" src="https://github.com/user-attachments/assets/759ff9f2-2d26-45f0-9d98-745812473bf6" />
 
 _**2.7. Diagramas de Atividades**_
 
