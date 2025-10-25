@@ -44,19 +44,68 @@ _**Personas:**_
 
 _**Análise da situação atual: antes da introdução de sua solução**_
 
-_`1. O que as pessoas fazem?`_  _`2. Quais os artefatos envolvidos?`_  _`3. O que elas precisam saber?`_
+_`1. O que as pessoas fazem?`_
+
+Maria Gabriella realiza o controle de seu estoque e das vendas de forma manual, utilizando cadernos ou planilhas simples no computador. Ela confere os produtos disponíveis observando as prateleiras, anota as vendas no final do dia e tenta atualizar os dados sempre que possível. Quando algum item acaba, ela só percebe após o pedido de um cliente ou ao notar a prateleira vazia.
+
+_`2. Quais os artefatos envolvidos?`_
+
+Cadernos e anotações manuais
+
+Planilhas no computador
+
+Calculadora para controle financeiro
+
+Etiquetas ou listas impressas de produtos
+
+Celular para comunicação com fornecedores
+
+_`3. O que elas precisam saber?`_
+
+Quais produtos estão disponíveis e em que quantidade
+
+Quando um produto está próximo de acabar
+
+Quais produtos têm maior saída
+
+Como repor o estoque de maneira eficiente
+
+Como registrar corretamente as vendas e os valores obtidos
 
 _**Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:**_
 
-_`1. O que as pessoas fazem?`_  _`2. Quais os artefatos envolvidos?`_  _`3. O que elas precisam saber?`_
+_`1. O que as pessoas fazem?`_
+
+Maria Gabriella passa a registrar suas vendas diretamente no sistema, que atualiza automaticamente o estoque. Ela cadastra novos produtos, define níveis mínimos de reposição e recebe alertas quando algum item estiver acabando. Além disso, pode gerar relatórios de vendas e visualizar o desempenho de sua mercearia de forma rápida e organizada.
+_`2. Quais os artefatos envolvidos?`_
+
+Sistema de gestão de estoque e vendas (web ou desktop)
+
+Banco de dados integrado para armazenar produtos, vendas e usuários
+
+Computador, tablet ou smartphone com acesso ao sistema
+
+Relatórios digitais (em tela, PDF ou planilha exportável)
+
+_`3. O que elas precisam saber?`_
+
+Como acessar o sistema com segurança (login e senha)
+
+Como cadastrar, editar e remover produtos
+
+Como registrar uma venda e emitir relatórios
+
+Como interpretar alertas de baixo estoque
+
+Como utilizar relatórios para melhorar a tomada de decisões
 
 _**Cenário: Antes**_
 
-_<Preencher com o cenário idealizado antes da aplicação do seu sistema.>_
+_Maria Gabriella enfrenta dificuldades no controle de seu estoque e nas vendas, utilizando métodos manuais e demorados. O risco de erros é alto, e ela frequentemente descobre que um produto acabou apenas quando um cliente pede por ele. A falta de relatórios e alertas automáticos compromete o planejamento e a eficiência da mercearia._
 
 _**Cenário: Depois**_
 
-_<Preencher com o cenário idealizado depois da aplicação do seu sistema.>_
+Com o sistema implementado, Maria Gabriella realiza todas as tarefas de forma automatizada. O sistema registra vendas, atualiza o estoque em tempo real, gera relatórios e envia alertas de reposição. Assim, ela tem total controle sobre seus produtos e desempenho de vendas, economizando tempo, evitando perdas e melhorando o atendimento aos clientes.
 
 ## 2. Documentos gerais no repositório
 
