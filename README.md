@@ -118,8 +118,10 @@ _**2.6. Diagramas de Caso de Uso e Especificações**_
 _**2.7. Diagramas de Atividades**_
 
 
-_**2.8. Protótipo<img width="1066" height="597" alt="Diagrama de atividades" src="https://github.com/user-attachments/assets/6c469002-7868-4b13-be6f-47b19bddf786" />
+_**<img width="1066" height="597" alt="Diagrama de atividades" src="https://github.com/user-attachments/assets/6c469002-7868-4b13-be6f-47b19bddf786" />
 **_
+**2.7. Diagramas de classe**_
+[diagrama_de_classe.pdf](https://github.com/user-attachments/files/23137258/diagrama_de_classe.pdf)
 
 ## Referências
 
