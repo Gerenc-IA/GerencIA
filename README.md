@@ -44,19 +44,41 @@ _**Personas:**_
 
 _**Análise da situação atual: antes da introdução de sua solução**_
 
-_`1. O que as pessoas fazem?`_  _`2. Quais os artefatos envolvidos?`_  _`3. O que elas precisam saber?`_
+Antes:
+
+Antes da utilização do GerencIA, o controle de estoque e vendas é feito de forma manual ou utilizando planilhas simples.
+
+O que as pessoas fazem?
+Registram entradas e saídas de produtos manualmente, conferem quantidades visualmente e anotam vendas em cadernos ou aplicativos não integrados.
+
+Quais artefatos estão envolvidos?
+Cadernos, blocos de notas, calculadora, planilhas avulsas, anotações informais e conferência física de produtos nas prateleiras.
+
+O que elas precisam saber?
+Precisam ter controle e disciplina para manter tudo atualizado, além de dependerem da própria atenção e memória. O risco de erro é alto, podendo gerar vendas incorretas, estoque negativo ou falta de reposição a tempo.
 
 _**Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:**_
 
-_`1. O que as pessoas fazem?`_  _`2. Quais os artefatos envolvidos?`_  _`3. O que elas precisam saber?`_
+Depois (TO-BE)
+
+Com o GerencIA, o comerciante passa a ter um fluxo de controle automatizado e centralizado.
+
+O que as pessoas fazem?
+Registram produtos no sistema, realizam vendas com busca automática e acompanham estoque e relatórios em tempo real.
+
+Quais artefatos estão envolvidos?
+Interface digital do sistema (computador ou celular), banco de dados integrado, módulos de venda, cadastro e relatórios.
+
+O que elas precisam saber?
+Apenas como utilizar a interface do sistema, que é intuitiva. Não há necessidade de cálculos manuais, conferência constante ou memória sobre movimentações do estoque — o sistema faz automaticamente.
 
 _**Cenário: Antes**_
 
-_<Preencher com o cenário idealizado antes da aplicação do seu sistema.>_
+Antes da utilização do GerencIA, o controle de estoque e vendas é feito de forma manual ou com planilhas simples. O comerciante precisa verificar fisicamente a quantidade de produtos, atualizar anotações manualmente e registrar vendas de forma pouco organizada. Esse processo aumenta o risco de erros, como perda de informações, vendas de produtos que já acabaram, atraso na reposição e dificuldade para saber o que está vendendo mais.
 
 _**Cenário: Depois**_
 
-_<Preencher com o cenário idealizado depois da aplicação do seu sistema.>_
+Com a adoção do GerencIA, o controle de estoque e vendas passa a ser automático e centralizado em um sistema único. As vendas são registradas digitalmente, o estoque é atualizado em tempo real e alertas avisam quando um produto está próximo do nível mínimo. O comerciante tem acesso a relatórios claros de desempenho, consegue planejar reposições com antecedência e toma decisões mais seguras, reduzindo perdas e melhorando o atendimento.
 
 ## 2. Documentos gerais no repositório
 
@@ -111,16 +133,16 @@ _**2.5. Histórias do Usuário**_
 9. Como um Comerciante, eu quero gerar um relatório completo do meu estoque atual, para que eu possa fazer o balanço (contagem física) e planejar minhas compras de reposição.
 10. Como um Comerciante, eu quero adicionar uma foto para cada produto no cadastro, para que seja mais fácil e rápido identificar o item visualmente na tela de vendas.
 
-_**2.6. Diagramas de Caso de Uso e Especificações**_
+_**2.6 Diagramas de Caso de Uso e Especificações**_
 
 <img width="447" height="1176" alt="Diagrama caso de uso1" src="https://github.com/user-attachments/assets/759ff9f2-2d26-45f0-9d98-745812473bf6" />
 
-_**2.7. Diagramas de Atividades**_
+_**2.7 Diagramas de Atividades**_
 
 
 _**<img width="1066" height="597" alt="Diagrama de atividades" src="https://github.com/user-attachments/assets/6c469002-7868-4b13-be6f-47b19bddf786" />
 **_
-**2.7. Diagramas de classe**_
+**2.8 Diagramas de classe**_
 
 
 <img width="677" height="945" alt="diagrama" src="https://github.com/user-attachments/assets/ae8af8a4-c765-4ee2-8fb6-f4ee5b841897" />
