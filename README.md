@@ -67,11 +67,59 @@ Com o GerencIA, o controle se torna automatizado, centralizado e confiável.
 | Requisitos Não Funcionais (RNF) | https://docs.google.com/spreadsheets/d/1qk3-G5MouKKQh3VMvTKecqzVgqDyMfVI8vWTflVRRas/edit?usp=sharing |
 
 ### Principais Histórias de Usuário
-- Como **Comerciante**, quero **cadastrar, editar e remover produtos** para manter o estoque atualizado.
-- Como **Comerciante**, quero **registrar vendas rapidamente** para agilizar o atendimento.
-- Como **Comerciante**, quero **baixa automática no estoque** ao finalizar vendas.
-- Como **Comerciante**, quero **alertas de nível mínimo** para repor mercadorias.
-- Como **Comerciante**, quero **gerar relatórios** para analisar o desempenho da loja.
+- Como um Comerciante, eu quero cadastrar, editar e remover produtos, para que meu inventário digital esteja sempre correto e atualizado.
+
+- Como um Comerciante, eu quero registrar uma venda de forma rápida, buscando produtos por nome ou código de barras com sugestões automáticas (autocomplete), para que eu não deixe o cliente esperando e o processo no caixa seja ágil.
+
+- Como um Comerciante, eu quero que o sistema dê baixa no estoque automaticamente sempre que eu finalizar uma venda, para que eu tenha confiança nos números do meu inventário e evite vender produtos que acabaram.
+
+- Como um Comerciante, eu quero me cadastrar com e-mail e senha e fazer login de forma segura, para que apenas eu tenha acesso aos dados de gerenciamento da minha loja.
+
+- Como um Comerciante, eu quero definir uma quantidade de "nível mínimo" para cada produto do meu inventário, para que o sistema possa me alertar proativamente quando for a hora de comprar mais.
+
+- Como um Comerciante, eu quero ver um alerta visual (como uma cor ou ícone) na minha lista de produtos, para que eu possa identificar rapidamente quais itens estão com estoque baixo.
+
+- Como um Comerciante, eu quero buscar e filtrar produtos no meu inventário por nome ou código, para que eu possa gerenciar meu catálogo e encontrar itens específicos facilmente.
+
+- Como um Comerciante, eu quero gerar relatórios de vendas por período (diário, semanal, mensal), para que eu possa entender meu faturamento e quais produtos são mais vendidos.
+
+- Como um Comerciante, eu quero gerar um relatório completo do meu estoque atual, para que eu possa fazer o balanço (contagem física) e planejar minhas compras de reposição.
+
+- Como um Comerciante, eu quero adicionar uma foto para cada produto no cadastro, para que seja mais fácil e rápido identificar o item visualmente na tela de vendas.
+
+---
+
+## Perguntas:
+
+Hoje, como você faz o controle do seu estoque?
+
+Você já enfrentou problemas por não saber a quantidade exata de um produto?
+
+Como você registra suas vendas atualmente?
+
+Você gera ou gostaria de gerar relatórios de vendas?
+
+Você acha importante receber alertas quando um produto estiver acabando no estoque?
+
+Se fosse usar um sistema, você preferiria no celular, computador ou os dois?
+
+Você se sentiria confortável em cadastrar seus produtos no sistema (com nome, preço, quantidade, etc.)?
+
+Ter fotos dos produtos ajudaria na hora de encontrar ou vender algo no sistema?
+
+Você trabalha sozinho ou mais pessoas usariam esse sistema com você?
+
+Na sua opinião, o que um bom sistema de gestão deveria ter para facilitar sua vida?
+
+Você gostaria de acessar seus dados de qualquer lugar, ou só dentro da loja?
+
+
+---
+
+## Entrevistas
+
+https://drive.google.com/file/d/1Tb8JclFMb0do0pchPMK6iU6BhXXeH1fX/view?usp=sharing
+https://drive.google.com/file/d/1MGzr2m8T_CK9dZHFzsHFAed194ripwqw/view?usp=sharing
 
 ---
 
