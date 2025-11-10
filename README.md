@@ -136,8 +136,30 @@ https://drive.google.com/file/d/1MGzr2m8T_CK9dZHFzsHFAed194ripwqw/view?usp=shari
 ---
 
 ## 🖼️ Protótipo
-> Protótipo navegável será adicionado na próxima etapa (em desenvolvimento).
-> Telas previstas: Login → Dashboard → Estoque → Vendas → Relatórios → Alertas.
+Protótipo navegável disponível em: https://ninjamock.com/s/Z386QZx
+
+As telas representam os principais fluxos do sistema:
+
+Login
+
+Dashboard (visão geral)
+
+Gestão de Estoque (CRUD)
+
+Registro de Venda com busca/autocomplete
+
+Alertas de nível mínimo
+
+Relatórios de vendas
+
+Primeira tela: 
+<img width="932" height="581" alt="image" src="https://github.com/user-attachments/assets/aeb958f6-f87c-4437-874f-9647390bfbd4" />
+
+Segunda tela: 
+<img width="1174" height="727" alt="Captura de tela 2025-11-10 190451" src="https://github.com/user-attachments/assets/b3b8a705-c861-4a19-ac91-ec6b69d236e1" />
+
+Terceita tela:
+<img width="1177" height="725" alt="Captura de tela 2025-11-10 190431" src="https://github.com/user-attachments/assets/b33b4222-087c-41bb-8d47-9ab1102a8968" />
 
 ---
 
