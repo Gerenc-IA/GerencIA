@@ -64,7 +64,7 @@ Com o GerencIA, o controle se torna automatizado, centralizado e confiável.
 | Tipo | Documento |
 |------|----------|
 | Requisitos Funcionais (RF) | https://docs.google.com/spreadsheets/d/1qk3-G5MouKKQh3VMvTKecqzVgqDyMfVI8vWTflVRRas/edit?usp=sharing |
-| Requisitos Não Funcionais (RNF) | https://docs.google.com/spreadsheets/d/1qk3-G5MouKKQh3VMvTKecqzVgqDyMfVI8vWTflVRRas/edit?usp=sharing |
+| Requisitos Não Funcionais (RNF) | https://docs.google.com/spreadsheets/d/1vqy9eYXl4csNTNditqTUdNdE6h24HFvRGEGBriaROOc/edit?usp=sharing |
 
 ### Principais Histórias de Usuário
 - Como um Comerciante, eu quero cadastrar, editar e remover produtos, para que meu inventário digital esteja sempre correto e atualizado.
